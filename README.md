@@ -1,4 +1,4 @@
-# Deira Aisya's Github Page
+# Hi
 
 I’m Deira, a sophomore Computer Science student at Universitas Gadjah Mada. While my path into this field hasn’t always been straightforward, I’ve developed a strong interest in artificial intelligence, especially in designing model architectures, building automation systems, and optimizing performance.
 
